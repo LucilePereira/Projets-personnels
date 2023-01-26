@@ -1,0 +1,96 @@
+header {
+        font-size: 45px;
+        font-family: Herculanum;
+        background-color: midnightblue;
+        color: white;
+        border: solid;
+        border-color: white;
+        border-radius: 50px;
+        padding: 10px;
+        text-align: left;
+        
+}
+
+.logo{
+        border-radius: 45px;
+        padding: 20px;
+}
+
+nav{
+        float: top;
+        font-family: Optima;
+        border: double;
+        border-width: 10px;
+        margin: 5px;
+        padding: 5px;
+}
+
+h2,h3,h4{
+        font-family: Herculanum;
+}
+
+h2{
+        font-size: 70px;
+        color: #2d2d86;
+        margin: 40px
+        
+}
+
+h3{
+        font-size: 30px;
+        color: #2d5986;
+}
+
+h4{
+        font-size: 20px;
+        color: #732626;
+}
+
+body{
+        font-family: Optima;
+        font-size: 17px;
+}
+
+table{
+border-collapse: separate #00004d ;
+margin: auto;
+background: #ccf2ff;
+}
+
+td, th{
+border: 2px solid #00004d;
+text-align: center;
+}
+
+th{
+background: #000080;
+}
+
+tbody tr:nth-child(odd) {
+        background-color: #cce5ff;
+}
+
+tbody tr:nth-child(even) {
+        background-color: #ccffff;
+}
+
+thead {
+        background-color: #4775d1;
+        color: white;
+}
+
+.chronos{
+        text-align: right;
+}
+
+.genealogie{
+        margin-bottom: 70px;
+        margin-top: 20px;
+        padding: 5px;
+        border: dotted;
+        border-width: 3px;
+}
+
+.fin{
+        margin-bottom:70px;
+}
